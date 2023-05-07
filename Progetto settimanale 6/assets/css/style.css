@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#avatar-dropdown.dropdown-menu[data-bs-popper] {
+  position: absolute;
+  transform: translateX(-200px);
+}
+
+main {
+  margin: 0;
+}
+
+hr {
+  margin: 1rem 0;
+  color: black;
+  border: 0;
+  border-top: 1px solid;
+  opacity: 0.1;
+}
+
+#paragraph1 {
+  line-height: 1;
+  padding-top: 11px;
+}
+
+#paragraph2 {
+  line-height: 1;
+  padding-top: 11px;
+}
+
+#paragraph3 {
+  line-height: 1;
+  padding-top: 11px;
+}
+
+footer p {
+  padding-top: 2em;
+  padding-left: 2em;
+}
+
+footer div {
+  margin-left: 65em;
+}/*# sourceMappingURL=style.css.map */
